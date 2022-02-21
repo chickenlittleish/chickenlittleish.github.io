@@ -2,6 +2,7 @@
   	border: 15px solid skyblue;
   	padding: auto;
   	margin: 2px;
+  	position: absolute;
 }
 
 #header1 {
@@ -25,18 +26,6 @@
 	font-family:fantasy ;
 	color: rebeccapurple;
 	text-align: center;
-}
-
-#21 {
-	position: absolute;
-}
-
-#24 {
-	position: absolute;
-}
-
-#22 {
-	position: absolute;
 }
 
 .forband {
