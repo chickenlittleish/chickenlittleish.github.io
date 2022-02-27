@@ -70,6 +70,25 @@
 
 
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #FF3D3D;
   color: white;
+
+}
+
+.topnav a.ac {
+  background-color: #20C7D7;
+  color: white;
+
+}
+
+.topnav a.de {
+  background-color: #FF3D3D;
+  color: white;
+
+}
+
+.topnav a.re {
+  background-color: #20C7D7;
+  color: white;
+
 }
