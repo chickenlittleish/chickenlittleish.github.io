@@ -6,6 +6,49 @@
   	
 }
 
+.fr {
+	border: 15px solid skyblue;
+  padding: auto;
+  margin: 2px;
+	width:200px;
+	height: auto;
+}
+
+#Yugi {
+	font-family: fantasy;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	color: whitesmoke;
+}
+
+.flex {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	flex-flow: row wrap;
+	justify-content: center;
+
+}
+
+#Kaiba {
+	font-family: fantasy;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	color: whitesmoke;
+}
+
+#Joey {
+	font-family: fantasy;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	color: whitesmoke;
+}
+
+
+
 #header1 {
 	font-family: fantasy;
 	color: rebeccapurple;
