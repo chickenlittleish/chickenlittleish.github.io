@@ -123,20 +123,26 @@
 }
 
 
-.topnav a.ac {
+.topnav a.active {
   background-color: #FF3D3D;
   color: white;
 
 }
 
-.topnav a.de {
+.topnav a.ac {
   background-color: #20C7D7;
   color: white;
 
 }
 
-.topnav a.re {
+.topnav a.de {
   background-color: #FF3D3D;
+  color: white;
+
+}
+
+.topnav a.re {
+  background-color: #20C7D7;
   color: white;
 
 }
